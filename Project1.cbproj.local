@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899 12 30 00:00:00.000.695,=C:\Projects\Trash\Unit1.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.550,C:\Projects\radkurs\NoteForm.h=C:\Projects\radkurs\NoteSearch.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.275,C:\Projects\radkurs\NoteForm.h=C:\Projects\radkurs\Unit2.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.556,C:\Projects\radkurs\NoteListForm.dfm=C:\Projects\radkurs\Unit1.dfm</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.874,C:\Projects\radkurs\Notepad.h=C:\Projects\radkurs\NoteListForm.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.665,=C:\Projects\radkurs\Note.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.570,C:\Projects\radkurs\NoteSearch.h=C:\Projects\radkurs\NoteForm.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.570,C:\Projects\radkurs\NoteSearch.dfm=C:\Projects\radkurs\NoteForm.dfm</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.147,=C:\Projects\radkurs\NoteSearch.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.570,C:\Projects\radkurs\NoteSearch.cpp=C:\Projects\radkurs\NoteForm.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.556,C:\Projects\radkurs\NoteListForm.cpp=C:\Projects\radkurs\Unit1.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.117,C:\Projects\radkurs\Unit1.h=C:\Projects\Trash\Unit1.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.611,C:\Users\Slava\Downloads\user-male.png=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.072,=C:\Users\Slava\Downloads\user-male.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.874,C:\Projects\radkurs\Notepad.cpp=C:\Projects\radkurs\NoteListForm.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.556,C:\Projects\radkurs\NoteListForm.h=C:\Projects\radkurs\Unit1.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.135,=C:\Projects\radkurs\Unit3.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.874,C:\Projects\radkurs\Notepad.dfm=C:\Projects\radkurs\NoteListForm.dfm</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.117,C:\Projects\radkurs\Unit1.dfm=C:\Projects\Trash\Unit1.dfm</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.633,=C:\Projects\radkurs\Unit2.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.083,=C:\Projects\radkurs\Unit2.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.774,=C:\Projects\radkurs\user-male.png</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.117,C:\Projects\radkurs\Unit1.cpp=C:\Projects\Trash\Unit1.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.275,C:\Projects\radkurs\NoteForm.cpp=C:\Projects\radkurs\Unit2.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.583,=C:\Projects\Trash\Project1PCH1.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.113,C:\Projects\radkurs\Project1PCH1.h=C:\Projects\Trash\Project1PCH1.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.550,C:\Projects\radkurs\NoteForm.cpp=C:\Projects\radkurs\NoteSearch.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.702,C:\Projects\radkurs\Project1.cbproj=C:\Projects\Trash\Project1.cbproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.275,C:\Projects\radkurs\NoteForm.dfm=C:\Projects\radkurs\Unit2.dfm</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.550,C:\Projects\radkurs\NoteForm.dfm=C:\Projects\radkurs\NoteSearch.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
